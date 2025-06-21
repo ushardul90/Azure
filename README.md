@@ -1,1 +1,1 @@
-# The Repository for Azure
+Refer WIKI Page

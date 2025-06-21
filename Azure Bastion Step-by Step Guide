@@ -1,9 +1,1 @@
-Azure Bastion Step-by Step Guide
-
-The Azure Bastion service is a new fully platform-managed PaaS service that you provision inside your virtual network. It provides secure and seamless RDP/SSH connectivity to your virtual machines directly in the Azure portal over SSL.
-The good thing about this, is that When you connect via Azure Bastion, your virtual machines do not need a public IP address.
-
-How Azure Bastion Works?
-Azure bastion receives connections from the internet using SSL and connects you back to your VMs using RDP and SSH.
-
-
+Look Wiki for more content about Azure

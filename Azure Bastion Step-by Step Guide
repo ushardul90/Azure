@@ -4,4 +4,6 @@ The Azure Bastion service is a new fully platform-managed PaaS service that you 
 The good thing about this, is that When you connect via Azure Bastion, your virtual machines do not need a public IP address.
 
 How Azure Bastion Works?
+Azure bastion receives connections from the internet using SSL and connects you back to your VMs using RDP and SSH.
+
 
